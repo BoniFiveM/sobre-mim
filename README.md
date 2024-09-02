@@ -1,7 +1,11 @@
 # 👋 Olá, eu sou o Marcos, um desenvolvedor full stack apaixonado pelo que faz!
 
 ## 👨🏻‍💻 Minha História
-**Desde os 13 anos**, quando tive meu primeiro contato com código ao desenvolver um painel para o servidor de SA-MP com amigos, minha paixão por programação começou a florescer. Naquela época, fomos pioneiros no desenvolvimento de soluções para nosso servidor, e a iniciativa de criar algo do zero me cativou profundamente.
+**Desde dos 13 anos**,  minha jornada na programação começou de maneira bastante prática e envolvente. Naquela época, eu e meus amigos estávamos empolgados com a ideia de criar nosso próprio servidor de SA-MP (San Andreas Multiplayer). Para tornar nosso servidor único e funcional, percebemos que precisaríamos de um painel de administração para gerenciar os usuários, monitorar atividades e configurar várias opções.
+
+A experiência de desenvolver esse painel foi realmente transformadora para mim. Precisávamos criar uma interface amigável para os administradores e uma maneira eficiente de interagir com os dados do servidor. Eu me envolvi profundamente em cada aspecto do desenvolvimento, desde o design do painel até a programação dos scripts que garantiam que tudo funcionasse perfeitamente.
+
+A sensação de criar algo do zero, que não existia antes, e ver nosso projeto ganhar vida foi extremamente gratificante. Esse projeto não só despertou minha paixão por programação, mas também me deu uma compreensão prática das várias etapas do desenvolvimento de software, desde a concepção da ideia até a implementação e manutenção. A experiência foi uma grande motivação para continuar explorando e crescendo na área de tecnologia.
 
 **Atualmente, aos 21 anos**, continuo a cultivar esse interesse, mantendo-me sempre atualizado e engajado no campo da programação.
 
